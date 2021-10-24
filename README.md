@@ -1,0 +1,4 @@
+# PetsWantHome :feet:
+
+Le but de notre projet est de créer un site centralisant les avis d’adoptions formulés par les différents refuges partout en France. Une version plus avancée du projet permettrait également de donner au particulier la possibilité de déposer des annonces concernant la perte d’un animal ou le fait d’en trouver un. Ainsi chaque personne, que ce soit un particulier ou un refuge peut retrouver en un clic toutes les informations qu’il recherche.
+Ainsi, les particuliers souhaitant adopter un animal proposé par un refuge, peuvent entrer en relation avec ce dernier afin de convenir d’un rendez-vous, voire d’une visite pour rencontrer l’animal. Un annuaire des refuges est également disponible via la page d’accueil afin de trouver les refuges disponibles près de chez-soi. Une centralisation de ce que proposent des sites Pet Alert et offres d’adoptions des sites de refuges indépendants. :feet:
